@@ -1,2 +1,2 @@
 # is-lm-model
-Hola, mundo!
+IS - LM model used for introductory macroeconomic class
